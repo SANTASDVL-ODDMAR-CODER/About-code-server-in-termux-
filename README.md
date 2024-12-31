@@ -40,20 +40,20 @@ apt install code-server
 ```
 
 * After installing the code-server, open terminal and type the **code-server**, Like this 👉
-* 
+  
 ![Screenshot_2024-12-30_23-20-16](https://github.com/user-attachments/assets/5358d80e-ce5b-46db-8278-fb22ff318753)
 
 * If you see those thinks, open the web-browser and enter the **127.0.0.1:8080**, **127.0.0.1** is the localhost and **8080** was the port
 * After open the port you will see 👉 were it need the password
-* 
+  
 * ![Screenshot_2024-12-30_23-32-39](https://github.com/user-attachments/assets/46d716e9-0d0c-4ef2-82c0-10572b44b939)
 * Another time open the terminal and past this commend
 
 ```
 nano /data/data/com.termux/files/home/.config/code-server/config.yaml
 ```
-* And configer or change the password
-* +
+* 👉 And configer or change the password
+  
 ![Screenshot_2024-12-30_23-39-00](https://github.com/user-attachments/assets/27aef712-0848-4369-ac45-fab4d961a1ce)
 
 
