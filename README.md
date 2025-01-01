@@ -29,7 +29,7 @@ apt upgrade -y
 ![Screenshot_2024-12-30_22-44-18](https://github.com/user-attachments/assets/8ce5e95f-a844-41fe-aed0-b5c673246712)
 
 # 🎃 Run vs-code on web-browser 
-## 😎 About the code-server  
+## 👉 About the code-server  
 * This is possible by using the **code-server** package
 * This allowed or give the access to run the **vs-code** in web-browser
 * Here is the download process  
